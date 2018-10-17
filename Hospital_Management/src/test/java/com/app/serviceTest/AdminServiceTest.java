@@ -17,7 +17,6 @@ import com.app.service.AdminService;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = { "classpath:/ApplicationContext.xml","classpath:/Dispatcher-servlet.xml"})
-@ComponentScan(basePackages="com.app")
 public class AdminServiceTest {
 
 	@Autowired
