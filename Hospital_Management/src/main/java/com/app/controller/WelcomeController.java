@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/msg")
 public class WelcomeController {
 	/**
-	 * Welcome massage controller 
+	 * Welcome massage controller .....
 	 * 
 	 * @return
 	 */
